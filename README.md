@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAV
 - 🌱 I’m currently learning c++
 
-- 📫 How to reach me ...
+
 
 <!---
 nbt2308/nbt2308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
