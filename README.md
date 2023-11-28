@@ -1,6 +1,5 @@
-- 👋 Hi, I’m nờ bờ tờ
-- 👀 I’m interested in JAV
-- 🌱 I’m currently learning c++
+- THIS IS MY PUBLIC RESPOSITORIES.
+
 
 
 
