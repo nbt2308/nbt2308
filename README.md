@@ -10,6 +10,10 @@
 <br/>
 
 `root@nbt2308:~$` `./init-profile.sh`
+<br/>
+<p align="center">
+  <samp>One commit at a time, one step closer to success.</samp>
+</p>
 
 
 
