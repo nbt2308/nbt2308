@@ -4,7 +4,7 @@
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║  $ whoami                                            ║
-║  nguyen-bao-trong                                   ║
+║  nguyen-bao-trong                                    ║
 ║                                                      ║
 ║  $ role                                              ║
 ║  Software Engineering Student                        ║
@@ -28,7 +28,7 @@
 ## `$ cat about-me.txt`
 
 ```text
-Name       : Bao Trong Nguyen
+Name       : Nguyen Bao Trong
 Education  : Software Engineering @ An Giang University
 Interests  : Backend Engineering, Web Development, AI
 Currently  : Building full-stack applications
