@@ -11,7 +11,8 @@
 
 `root@nbt2308:~$` `./init-profile.sh`
 
-![Profile Views](https://komarev.com/ghpvc/?username=nbt2308&style=flat-square&color=00FF88&label=PROFILE%20VIEWS)
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-nbt2308-111111?style=flat-square&logo=github&logoColor=00FF88)
 ![Open to Internships](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-003B24?style=flat-square&logo=git&logoColor=00FF88)
 
