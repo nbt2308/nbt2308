@@ -41,7 +41,7 @@ My main focus is **TypeScript, backend development, API design, and full-stack e
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,prisma,postgres,mysql,docker,git,github,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,prisma,postgres,mysql,docker,git,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
